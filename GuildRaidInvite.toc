@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: GuildRaidInvite
+## Version: 0.1
+## Notes: Simple addon for auto-invite your guild members to raid
+## Author: dein0s (https://github.com/dein0s)
+GuildRaidInvite.lua
