@@ -78,4 +78,4 @@ function GuildRaidInvite(phrase)
 
 end
 SlashCmdList.GUILDRAIDINVITE = GuildRaidInvite
-SLASH_GUILDRAIDINVITE1 = "/graidinv"
+SLASH_GUILDRAIDINVITE1 = "/graid"
